@@ -90,11 +90,13 @@ p {
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
+    display: block;
 }
 
 .benefit-brand {
     margin-bottom: 32px;
     color: #ffffff;
+    font-size: ;
 }
 
 .benefit-cost {
