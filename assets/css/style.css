@@ -62,14 +62,14 @@ p {
     background-size: cover;
     background-position: center;
 }
-/* Hero Section */
+/* end of hero Section */
 
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-
+/* benefits section */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -80,7 +80,8 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/* end of benefits section */
+/* benefit section */
 .benefit {
     margin-bottom: 32px;
     color: #ffffff;
@@ -98,6 +99,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+/* end of benefit section */
 /* service section */
 .float-left {
     float: left;
