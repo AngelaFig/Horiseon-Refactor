@@ -63,12 +63,13 @@ p {
     background-position: center;
 }
 /* end of hero Section */
-
+/* content section */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
+/* end of content section */
 /* benefits section */
 .benefits {
     margin-right: 20px;
