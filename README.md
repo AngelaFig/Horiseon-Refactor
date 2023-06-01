@@ -8,3 +8,6 @@ Horiseon is a digital marketing firm who has requested a refactoring of the exis
 ## Usage
 
 ![screenshot](assets/images/screenshot.png)
+
+## Source
+All starter code was provided by bootcamp instructional team.
